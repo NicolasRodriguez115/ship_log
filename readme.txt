@@ -1,1 +1,1 @@
-this is my new repo, it looks so cool! 
+today we are going to talk about branching and merging, its gonna be a blast! 
